@@ -1,0 +1,7 @@
+*.EXE
+*.exe
+*.o
+__pycache__/
+*_completo.asm
+RINGO.CFG
+!dos/CWSDSTUB.EXE
